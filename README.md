@@ -1,16 +1,13 @@
+![S](https://www.icegif.com/wp-content/uploads/itachi-icegif-7.gif)
 
-# PayMap - l1te x cabeson sin z 
+## ¿Como lo uso?
+```
+python3 PayMap.py
+```
 
-![S](https://media3.giphy.com/media/geJfZxVtYJZn2/giphy.gif)
-* Script basado en [nmap](nmap.org) y [MSFvenom](https://www.offensive-security.com/metasploit-unleashed/msfvenom/)
+## ¿Como instalo los requerimientos?
+```
+pip install base
+```
 
-`----------------------------------------------------------------------------------------------`
-
-> - Integraciones
-- [x] Payloads basicos - Se agregaran mas con la medida del tiempo
-- [x] Nmap medio - avanzado.
-- [ ] WpsScan
-- [ ] sslScan
-- [ ] SqlMap
-- [ ] Login brute force - Hydra.
-
+## Todo sea por un mejor mundo. 
