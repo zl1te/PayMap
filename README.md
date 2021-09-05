@@ -5,9 +5,9 @@
 python3 PayMap.py
 ```
 
-## ¿Como instalo los requerimientos?
+## Requerimientos:
 ```
-pip install base
+pip install os colorama time socket requests urllib.request sys webbrowser random stdout
 ```
 
-## Todo sea por un mejor mundo. 
+### Todo por un mejor mundo.
